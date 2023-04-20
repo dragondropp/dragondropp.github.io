@@ -1,0 +1,48 @@
+body{
+    background-color: #E9E7CE;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+img{
+    width: 500px;
+    border: 10px solid;
+    border-color: #E1A96F;
+    opacity: 100%;
+
+}
+
+h1{
+    background-color: #ABB26D;
+    padding: 2%;
+    font-weight: bolder;
+    text-shadow: #E9E7CE 1px 0 10px;
+
+}
+
+#ExplanationTwo{
+    font-size: larger;
+}
+
+h2{
+    background-color: #ABB26D;
+    text-align: left;
+    font-weight: bold;
+}
+
+#LoveLetter{
+    color: black;
+    position: relative;
+    text-align: center;
+}
+
+
+#Introduction{
+    font-size: large;
+}
+
+#Explanation {
+    font-size: large;
+
+}
+
